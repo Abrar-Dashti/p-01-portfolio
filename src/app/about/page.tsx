@@ -7,7 +7,7 @@ export default function About() {
                 <div className="w-[60%] text-justify m-20 text-gray-300">
                     <h1 className="text-4xl mb-4 font-bold text-yellow-300">About me</h1>
                     <span className="text-[18px]">
-                    "Hi I am <strong> Abrar Ahmed</strong> a Web Developer with a passion for creating user-friendly websites.  Currently I am honing my skills in Next.js, leveraging itspowerful features to build dynamic and efficient applications. As I expand my expertise into back-end development, I'm excited to explore technologies that enhance my full-stack capabilities. My     goal is to bridge the gap between front-end and back-end development, creating cohesive and user-friendly applications."
+                    Hi I am <strong> Abrar Ahmed</strong> a Web Developer with a passion for creating user-friendly websites.  Currently I am honing my skills in Next.js leveraging itspowerful features to build dynamic and efficient applications. As I expand my expertise into back-end development I am excited to explore technologies that enhance my full-stack capabilities. My     goal is to bridge the gap between front-end and back-end development, creating cohesive and user-friendly applications.
                     </span>
                 </div>
 
